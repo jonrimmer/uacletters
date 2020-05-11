@@ -6,6 +6,7 @@ import os
 import omg
 
 ENGLISH_WORDS = """
+abcdfijklmnopquvwx
 U W U
 L O L
 Acacia
